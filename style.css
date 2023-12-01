@@ -1,0 +1,48 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+div
+{
+    border: 1px solid white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: pink;
+    padding: 20px;
+}
+input,button
+{
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+button
+{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: rgba(255, 0, 0, 0.573);
+}
+p
+{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1
+{
+    font-family: 'Roboto', sans-serif;
+}
+#result
+{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    margin: 20px 0;
+}
